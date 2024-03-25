@@ -1,0 +1,7 @@
+https://nathancoquelin.github.io/arcade-doc/docs/intro
+https://nathancoquelin.github.io/arcade-doc/docs/category/graphics-lib
+https://nathancoquelin.github.io/arcade-doc/docs/graphics-lib/manage-docs-versions
+https://nathancoquelin.github.io/arcade-doc/docs/category/game-lib
+https://nathancoquelin.github.io/arcade-doc/docs/game-lib/manage-docs-versions
+https://nathancoquelin.github.io/arcade-doc/docs/category/the-core
+https://nathancoquelin.github.io/arcade-doc/docs/the-core/manage-docs-versions

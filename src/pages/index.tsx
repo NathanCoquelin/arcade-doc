@@ -16,13 +16,21 @@ function HomepageHeader() {
           {siteConfig.title}
         </Heading>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
-        <div className={styles.buttons}>
+        <div className={`${styles.buttons}`}>
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro"
           >
-            View our Docs
+            View our Interactive Docs
           </Link>
+          <a
+            className="button button--secondary button--lg"
+            href="pdf/documentation.pdf"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            View our PDF Docs
+          </a>
         </div>
       </div>
     </header>
