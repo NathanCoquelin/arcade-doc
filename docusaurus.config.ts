@@ -8,15 +8,15 @@ const config: Config = {
   favicon: "img/NateCo_logo.JPG",
 
   // Set the production url of your site here
-  url: "https://your-docusaurus-site.example.com",
+  url: "https://nathancoquelin.github.io",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: "/",
+  baseUrl: "/arcade-doc/",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "Tek2-Epitech", // Usually your GitHub org/user name.
-  projectName: "arcade", // Usually your repo name.
+  organizationName: "nathancoquelin", // Usually your GitHub org/user name.
+  projectName: "arcade-doc", // Usually your repo name.
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
@@ -77,8 +77,8 @@ const config: Config = {
           title: "Docs",
           items: [
             {
-              label: "Tutorial",
-              to: "/docs/intro",
+              label: "Documentation",
+              to: "/docs",
             },
           ],
         },
@@ -100,15 +100,15 @@ const config: Config = {
           ],
         },
         {
-          title: "More",
+          title: "Project",
           items: [
             {
-              label: "Blog",
-              to: "/blog",
+              label: "Go to Docs GitHub repo",
+              href: "https://github.com/NathanCoquelin/arcade-doc",
             },
             {
-              label: "GitHub",
-              href: "https://github.com/facebook/docusaurus",
+              label: "Go to Project GitHub repo",
+              href: "https://github.com/EpitechPromo2027/B-OOP-400-REN-4-1-arcade-nathan.coquelin",
             },
           ],
         },
